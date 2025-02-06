@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 23
+Class-Path: mysql-connector-j-8.0.33.jar protobuf-java-3.21.9.jar maven-
+ jar-plugin-3.4.2.jar file-management-3.1.0.jar plexus-utils-3.4.2.jar m
+ aven-archiver-3.6.2.jar plexus-interpolation-1.27.jar plexus-archiver-4
+ .9.2.jar plexus-io-3.4.2.jar commons-compress-1.26.1.jar commons-lang3-
+ 3.14.0.jar commons-codec-1.16.1.jar snappy-0.4.jar xz-1.9.jar zstd-jni-
+ 1.5.5-11.jar javax.inject-1.jar slf4j-api-1.7.36.jar commons-io-2.18.0.
+ jar
+Main-Class: test.Test
+Created-By: Maven Integration for Eclipse
+
